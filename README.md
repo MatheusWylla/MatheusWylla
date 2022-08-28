@@ -5,9 +5,7 @@
 - Atualmente curso faculdade de Analise e desenvolvimento de sistemas 📚
 
 - Támbém estou fazendo o curso ( Formação Full Stack JavaScript ) do professor "Thiago M Medeiros". 📚
-
-<br><br>
-
+<br>
 ## 🛠 &nbs; Tecnologias que domino
 
 <div style="">
@@ -27,9 +25,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusWylla&show_icons=true&theme=synthwave)](https://github.com/MatheusWylla/github-readme-stats)
 
-<div >
- <img style="width:49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusWylla&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
-</div>
+
 
 ## 📷  Redes Socias
 <img align="center" alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> Matheus Wyllamy
