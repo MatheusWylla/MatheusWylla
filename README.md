@@ -1,37 +1,44 @@
-### Olá! Eu sou o Matheus Wyllamy 🖐
+<h1>Oláaaa, tudo bem? Eu sou o Matheus Wyllamy 👋 </h1>
 
+- 🔥 Sou um Desenvolvedor FullStack jr Apaixonado pelas melhores tecnologias de desenvolvimento web. Tenho experiência com projetos usando JavaScript, NodeJS, ReactJS.  Sou aluno do curso Full Stack JavaScript, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web.🚀
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Sistemas da Informação 5/8
-<div align="center">
-  <a href="https://github.com/MatheusWylla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusWylla&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusWylla&layout=compact&langs_count=7&theme=cobalt"/>
+- Atualmente curso faculdade de Analise e desenvolvimento de sistemas 📚
+
+- Támbém estou fazendo o curso ( Formação Full Stack JavaScript ) do professor "Thiago M Medeiros". 📚
+
+ <h2>Redes Sociais 📷</h2>
+ <div> 
+  <a href="https://www.linkedin.com/in/matheuswyllamy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+ <h2>Tecnologias que domino</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="David-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="David-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="David-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="David-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
   </div>
   
   ##
+  <h3>" Transforme cada novo desafio em oportunidades de aprendizado e crescimento ".✌️🚀</h3>
+  - Ale Monteiro.
   
-  <div> 
-  <a href="https://www.youtube.com/channel/UCuRGzGHFfTswFICPxReGVXA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/dvdluiz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dvdluiz1991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dvdluiz91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <br><br>
+
+<div align="center">
+  <a href="https://github.com/MatheusWylla">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusWylla&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusWylla&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+
+
+  
+
+  
+
